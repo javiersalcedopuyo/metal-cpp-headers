@@ -153,6 +153,18 @@ _APPKIT_PRIVATE_DEF_SEL( setTitle_,
 _APPKIT_PRIVATE_DEF_SEL( windows,
 						"windows" );
 
+
+// Custom addition
+_APPKIT_PRIVATE_DEF_SEL( contentView,
+						"contentView" );
+
+// Custom addition
+_APPKIT_PRIVATE_DEF_SEL( setLayer_,
+						"setLayer:" );
+
+// Custom addition
+_APPKIT_PRIVATE_DEF_SEL( setWantsLayer_,
+						"setWantsLayer:" );
 }
 
 //-------------------------------------------------------------------------------------------------------------------------------------------------------------
